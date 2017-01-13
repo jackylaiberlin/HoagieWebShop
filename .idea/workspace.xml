@@ -1,0 +1,596 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="715db121-6d1e-413f-9ed8-f10dfa8b40e4" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/IntelliLang.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/applicationLibraries.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/dimensions.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/git.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/jdk.table.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/recentProjectDirectories.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/runner.layout.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/web-browsers.xml" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/options/window.manager.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/database.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hoagie_selection.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/meal_offer.rb" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/order_formula.rb" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/1/d0ffb220622b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/15/e0172294102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/18/90271eb5102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/25/30fc0012202700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/2d/f0b108030c2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/2e/c0b5ed89032c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/2e/d0e516e1a32500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/3/80f8d10d202700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/34/10c7263a042c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/34/30ddd66f102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/35/90a4f8dfa32500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/3c/90923af10b2700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/3f/505e65f2082700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/42/b0720d906d2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/43/70a4403e562400161978d49e17f303fd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/43/f094341cc22500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/45/708b60c76e2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/45/809b5a576f2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/45/a0c86550912600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/4f/60cb7159042c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/50/50f8a4b36e2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/51/407bc4ba0b2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/51/d0f164ac732600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/52/d013a423552600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/53/306068171d2700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/53/506c030c1b2700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/55/80e732246f2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/57/50a2f639512600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/57/c09e38956f2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/5c/d0838c1dc22500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/6/005ce03d562400161978d49e17f303fd" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/60/20da5ac0082700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/60/40cdc49b0a2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/61/20012aac542b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/62/90048107c22400161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/64/801deda8522800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/68/50ba3613842b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/68/e0b614ea0a2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/6b/c0b946c38a2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/6c/900fa9ef0d2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/6f/30b7b435152c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/70/a0bc38a7092c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/70/b0294e75bd2600161629fec2f4433abb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/70/b079c1d20a2700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/74/204ab4b58b2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/76/b070061b0e2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/77/70774166852b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/7a/308061d40f2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/7a/e0f41d020b2700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/7b/b0c7c30d202700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/8/4073ec1cc22500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/84/c099f2fcef2400161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/87/b05ed539512600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/89/d077c939512600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/8b/d0a57ae0a32500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/8c/d0ad2b6c522800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/8d/6038260ec22400161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/9/60f39201912600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/9/90c9901dc22500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/90/a0ee9785bd2600161629fec2f4433abb" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/91/20825d84082c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/94/30270eea0a2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/96/809040300b2700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/97/50655ffdef2400161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/97/70a19656102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/98/3025b8a86d2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/9a/5089ed28152c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/9d/00d1b9881e2700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/9d/d00180fcef2400161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a/b0ef9248512800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a/f06566c8ae2500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a1/60cc9e15702600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a3/e0ad1ddfa32500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a4/f0a49d57512800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a5/90c41229152c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a9/503fcc42622b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/a9/6012970d202700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ab/a0c83cc5902600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ac/b003e42f102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ad/a058a30e0a2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ae/f04b1d9a712600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/b6/d0c215b7732600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/b7/c001fca6092c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ba/802d14a9522800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/bc/e0bf970e0a2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/bd/e0ec094a022c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/bf/30cd0104a42500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/c1/402edfaf512800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/c5/6042c99e042c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/c5/80bab9ccae2500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ca/f0aa28de032c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/cb/e08bc4ae852b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/d0/306012f58a2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/d1/1013a00d202700161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/d3/40576230172c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/d5/a0674423552600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/d6/3088229f6d2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/d8/f092317b852b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/d9/809721b36e2600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/da/30f9a3e30d2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/db/90f758f10f2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/de/e035c83c542b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/e/609b23c6102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/e3/10123a93502800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/e3/8091efde102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/e8/30932818102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ed/3047551dc22500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/ee/90d100af852b00161c90909ea114da3a" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/f2/90b31843102c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/f4/20ef5d52912600161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/f6/10d4bc2c052c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/f7/d0ebe6a3042c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/f9/f0b204f2a32500161d28aad0a7321669" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/fa/00b91ca9522800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/fc/10ef644a0b2c001611369d4d8f3a58cc" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.history/fd/50f1780c562800161858d70f9edf631e" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calc/.indexes/af/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calc/.indexes/e4/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculator2/.indexes/af/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculator2/1.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculator2/2.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculator3/.location" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculator3/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculator3/.syncinfo.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculators2/.indexes/e4/c5/fe/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/Calculators2/1.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/ReversePolishNotation/.indexes/e4/history.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/ReversePolishNotation/2.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/ReversePolishNotation/3.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/exercise 2/1.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.root/20.tree" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/20.snap" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.frq" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.prx" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.tii" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_4.tis" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments_5" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/1660342983.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/3841452106.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/3963827216.index" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/0.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/1.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/10.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/11.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/2.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/3.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/4.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/5.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/6.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/7.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/8.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/jdt-images/9.png" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.fdt" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.fdx" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.fnm" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.frq" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.nrm" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.prx" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.tii" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/_g.tis" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/segments_h" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/write.lock" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.mylyn/.tasks.xml.zip" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.mylyn/.tasks.xml.zip" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.mylyn/tasks.xml.zip" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.mylyn/tasks.xml.zip" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/ReversePolishNotation/1.tree" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/ReversePolishNotation/1.tree" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/ReversePolishNotation/org.eclipse.jdt.core/state.dat" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/ReversePolishNotation/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/exercise 2/.markers" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/exercise 2/.markers" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/exercise 2/org.eclipse.jdt.core/state.dat" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.projects/exercise 2/org.eclipse.jdt.core/state.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/segments.gen" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/externalFilesCache" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/externalLibsTimeStamps" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/nonChainingJarsCache" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/variablesAndContainers.dat" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/segments.gen" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.recommenders/index/http___download_eclipse_org_recommenders_models_mars_/segments.gen" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/ReversePolishNotation" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/ReversePolishNotation" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/exercise 2/bin/Histogram.class" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/exercise 2/bin/Histogram.class" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.log" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.log" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.debug.ui.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.rcp.prefs" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.recommenders.rcp.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.core.runtime/.settings/org.eclipse.ui.ide.prefs" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.debug.core/.launches/test.launch" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.debug.core/.launches/test.launch" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.debug.ui/launchConfigurationHistory.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/server-config.json" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/QualifiedTypeNameHistory.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.jdt.ui/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.ui.ide/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.ui.workbench.texteditor/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/.plugins/org.eclipse.ui.workbench/dialog_settings.xml" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/version.ini" afterPath="$USER_HOME$/Dropbox/Own/2. Semester/INFO 2/Exercises/.metadata/version.ini" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/untitled@database.coverage" NAME="database Coverage Results" MODIFIED="1484299495099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="untitled" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="hoagie_selection.rb" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/hoagie_selection.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="meal_offer.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/meal_offer.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="order_formula.rb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order_formula.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Ruby Class Template" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/database.rb" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="10" />
+    <option name="y" value="43" />
+    <option name="width" value="1260" />
+    <option name="height" value="733" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="&lt; ruby-2.0.0-p648 &gt;" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.NamedLibraryElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="untitled" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js.eslint.eslintPackage" value="" />
+  </component>
+  <component name="RunManager" selected="Ruby.database">
+    <configuration default="false" name="database" type="RubyRunConfigurationType" factoryName="Ruby" temporary="true">
+      <module name="untitled" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="$MODULE_DIR$" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="$MODULE_DIR$/database.rb" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
+      <predefined_log_file id="RUBY_CUCUMBER" enabled="true" />
+      <module name="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*.feature" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_TAGS_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="TEST_NAME_FILTER" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_ARGS" VALUE="--color -r features" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="VERBOSE_OPTION" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="CUCUMBER_RUNNER_PATH" VALUE="" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_RUNNER" VALUE="false" />
+      <CUCUMBER_RUN_CONFIG_SETTINGS_ID NAME="SETTINGS_VERSION" VALUE="2" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="RSpecRunConfigurationType" factoryName="RSpec">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <method />
+    </configuration>
+    <configuration default="true" type="RubyRunConfigurationType" factoryName="Ruby">
+      <module name="" />
+      <RUBY_RUN_CONFIG NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RUBY_RUN_CONFIG NAME="WORK DIR" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RUBY_RUN_CONFIG NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RUBY_RUN_CONFIG NAME="SCRIPT_PATH" VALUE="" />
+      <RUBY_RUN_CONFIG NAME="SCRIPT_ARGS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestUnitRunConfigurationType" factoryName="Test::Unit/Shoulda/Minitest">
+      <predefined_log_file id="RUBY_TESTUNIT" enabled="true" />
+      <module name="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs />
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="false" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" NailgunExecEnabled="false" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_METHOD_NAME" VALUE="" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="ZEUS" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="SPRING" VALUE="false" />
+      <RTEST_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_OPTIONS" VALUE="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <list size="1">
+      <item index="0" class="java.lang.String" itemvalue="Ruby.database" />
+    </list>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Ruby.database" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="715db121-6d1e-413f-9ed8-f10dfa8b40e4" name="Default" comment="" />
+      <created>1484298867122</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1484298867122</updated>
+      <workItem from="1484298872622" duration="1866000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1866000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="10" y="43" width="1260" height="733" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3289855" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/database.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="3" lean-forward="true" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/meal_offer.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order_formula.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hoagie_selection.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="3" lean-forward="true" selection-start-line="1" selection-start-column="3" selection-end-line="1" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
